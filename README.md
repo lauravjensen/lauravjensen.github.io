@@ -11,5 +11,5 @@ My general topic is about the card balance and efficiency in the video game Slay
   src="Alaska_destinations_delays.html"
   width="100%"
   height="600"
-  frameborder="0">
+  style="border: none;>
 </iframe>
